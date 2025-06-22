@@ -1,0 +1,34 @@
+{
+  "fruits": [
+    {
+      "name": "Apple",
+      "color": "Red",
+      "hasSeeds": true,
+      "averageWeightGrams": 182
+    },
+    {
+      "name": "Banana",
+      "color": "Yellow",
+      "hasSeeds": false,
+      "averageWeightGrams": 118
+    },
+    {
+      "name": "Orange",
+      "color": "Orange",
+      "hasSeeds": true,
+      "averageWeightGrams": 131
+    },
+    {
+      "name": "Blueberry",
+      "color": "Blue",
+      "hasSeeds": true,
+      "averageWeightGrams": 0.5
+    },
+    {
+      "name": "Pineapple",
+      "color": "Brown/Yellow",
+      "hasSeeds": false,
+      "averageWeightGrams": 905
+    }
+  ]
+}
